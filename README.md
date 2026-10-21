@@ -1,8 +1,10 @@
 # Hola, soy Carlos Díaz Salazar 👋
 
-Construyo herramientas que resuelven problemas reales de mi propio negocio: un e-commerce de venta contraentrega en Perú, Ecuador y España, donde **WhatsApp es todo el canal de venta**.
+**Ex Big Four · Builder de producto e infraestructura con IA**
 
-Programo **con IA todos los días** (Claude Code, agentes) y me hago cargo de lo que sale a producción: lo despliego, lo monitoreo y lo arreglo cuando se rompe.
+Vengo de la consultoría en una firma Big Four, donde aprendí a entender procesos de negocio complejos, trabajar con rigor y entregar resultados medibles. Hoy aplico esa disciplina a construir software propio: diseño, desarrollo y opero las herramientas que sostienen mi e-commerce de venta contraentrega en Perú, Ecuador y España, un negocio donde **WhatsApp es el canal principal de venta y de atención**.
+
+Trabajo con un enfoque *AI-first* (Claude Code y agentes) y con ownership de punta a punta: identifico el problema, decido qué construir, lo llevo a producción y lo mejoro con datos de uso real.
 
 ### 🛠️ Lo que he construido
 
